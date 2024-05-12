@@ -1,5 +1,3 @@
-# REDE-NEURAL
-
 # Rede Neural para Classificação Binária
 
 Este é um exemplo de implementação de uma Rede Neural Artificial (RNA) para classificação binária usando a biblioteca Scikit-learn em Python.
