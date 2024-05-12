@@ -21,8 +21,9 @@ O objetivo deste código é treinar uma RNA para classificar dados em duas class
 
 1. Instale as dependências necessárias executando:
 
-´´´ bash 
+```bash 
 pip install  numpy matplotlib scikit-learn
+```
 
 2. Execute o script `rede_neural.py` em um ambiente Python.
 
